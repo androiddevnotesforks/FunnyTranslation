@@ -29,4 +29,5 @@ schemas/
 
 base-core/src/main/assets/funny_sign_v1_release.js
 funny_sign_v1_release_template.js
+sign_new_key.py
 .env
